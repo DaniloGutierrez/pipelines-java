@@ -30,3 +30,4 @@ jobs:
 
     - name: Compila el proyecto y ejecuta las pruebas
       run: mvn -B package --file pom.xml
+    
